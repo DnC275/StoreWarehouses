@@ -1,6 +1,8 @@
 ## Использование
 Сначала нужно создать и запустить миграции для каждого приложения и создать суперюзера для входа в админку.
 После этого запустите приложение Store и зайдите в админку. Далее создайте объект Warehouse. После создания ему присвоится уникальный токен:
-![image](https://user-images.githubusercontent.com/45349419/152838498-3e4b7d50-d34f-45f3-a9f7-e7ffa47e82d8.png)
+![image](https://user-images.githubusercontent.com/45349419/152839383-e003e5b2-d4a5-4d16-aa7b-2113b3d417f0.png)
 
-Скопируйте его и положите в переменную STORE_TOKEN в файле .env приложения Warehouse. Далее можно запускать приложение Warehouse.
+Скопируйте его и положите в переменную STORE_TOKEN в файле .env приложения Warehouse:
+![image](https://user-images.githubusercontent.com/45349419/152839503-fbb05b56-8dd8-4658-9ca7-93ce2bc495db.png)
+Далее можно запускать приложение Warehouse. 
