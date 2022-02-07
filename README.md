@@ -5,4 +5,5 @@
 
 Скопируйте его и положите в переменную STORE_TOKEN в файле .env приложения Warehouse:
 ![image](https://user-images.githubusercontent.com/45349419/152839503-fbb05b56-8dd8-4658-9ca7-93ce2bc495db.png)
+
 Далее можно запускать приложение Warehouse. 
